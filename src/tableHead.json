@@ -1,0 +1,42 @@
+[
+  {
+    "name": "oppName",
+    "label": "Opp Name",
+    "align": "left"
+  },
+  {
+    "name": "stage",
+    "label": "Opp Stage",
+    "align": "left"
+  },
+  {
+    "name": "repProbability",
+    "label": "Rep Probability",
+    "align": "right"
+  },
+  {
+    "name": "pilytixProbability",
+    "label": "PX Probability",
+    "align": "right"
+  },
+  {
+    "name": "pilytixTier",
+    "label": "Px Tier",
+    "align": "left"
+  },
+  {
+    "name": "amount",
+    "label": "Amount",
+    "align": "right"
+  },
+  {
+    "name": "product",
+    "label": "Product",
+    "align": "left"
+  },
+  {
+    "name": "salesRepName",
+    "label": "Sales Rep",
+    "align": "left"
+  }
+]
