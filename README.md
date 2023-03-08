@@ -2,6 +2,8 @@
 
 _Author: Hendrik Kits van Heyningen_
 
+ASSIGNENT FINISHED BY: MUSTAFA AL KHALIDI
+
 PILYTIX Front-End Engineers often build UIs that allow our customers to explore PILYTIX Data Scientists' datasets that layer Predictive Analytics / AI on top of customer sales opportunities.
 
 In this assignment, you will build an example of one such UI: an "opportunity card" pop-up to present additional AI-powered details about an opportunity in a table.
